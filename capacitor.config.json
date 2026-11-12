@@ -1,0 +1,8 @@
+{
+  "appId": "com.madrez.starleague",
+  "appName": "Star League Soccer",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#050b1c"
+  }
+}

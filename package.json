@@ -1,0 +1,16 @@
+{
+  "name": "star-league-soccer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Star League Soccer - arcade football game (Android app via Capacitor)",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
